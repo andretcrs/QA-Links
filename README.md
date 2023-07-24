@@ -1,10 +1,4 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-=======
-<h1 align="center">QA-Links</h1>
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
