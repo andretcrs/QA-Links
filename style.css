@@ -24,6 +24,7 @@
 }
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 body * {
   /* O asterisco aplica para todos no caso do body */
@@ -142,4 +143,14 @@ footer {
   text-align: center;
   font-size: 14px;
   alt: 1000px;
+}
+
+/* media queries */
+@media (min-width: 70px) {
+  :root {
+    --bg-url: url(./assets/assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+  }
 }
