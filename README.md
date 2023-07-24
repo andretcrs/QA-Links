@@ -1,4 +1,4 @@
-<h1 align="center"> QALinks </h1>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
