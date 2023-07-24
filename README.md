@@ -47,22 +47,5 @@ O QALinks é um agregador de links para usar como cartão de visitas online.
 
 Esse projeto está sob a licença MIT.
 
---
-=======
-
-A organização de pastas do projeto.
-
-```
-root
-├── assets
-│   ├── MACOSX
-|   ├── assets
-├── index.html
-├── README.md
-├── scripts
-├── style.css
 
 
-
-
->>>>>>> 899f82e65ebedb217d3247cc13d38919fad0ff93
