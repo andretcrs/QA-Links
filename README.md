@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> QALinks </h1>
 
 <p align="center">
@@ -22,10 +23,18 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+=======
+<h1 align="center">QA-Links</h1>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML
+- CSS
+>>>>>>> 899f82e65ebedb217d3247cc13d38919fad0ff93
 - JavaScript
 - Git e Github
 - Figma
 
+<<<<<<< HEAD
 ## 💻 Projeto
 
 O QALinks é um agregador de links para usar como cartão de visitas online.
@@ -40,3 +49,21 @@ O QALinks é um agregador de links para usar como cartão de visitas online.
 Esse projeto está sob a licença MIT.
 
 --
+=======
+
+A organização de pastas do projeto.
+
+```
+root
+├── assets
+│   ├── MACOSX
+|   ├── assets
+├── index.html
+├── README.md
+├── scripts
+├── style.css
+
+
+
+
+>>>>>>> 899f82e65ebedb217d3247cc13d38919fad0ff93
