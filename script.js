@@ -8,9 +8,11 @@ function toggleMode() {
   // substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver ligth mode, adicionar a image ligth
-    img.setAttribute("src", "./assets/assets/avatar-light.png")
+    img.setAttribute("src", "./assets/assets/oculos.png")
   } else {
     // se tiver sem ligth mode, manter a normal
-    img.setAttribute("src", "./assets/assets/avatar.png")
+    img.setAttribute("src", "./assets/assets/sem_oculos.png")
   }
 }
+
+//https://andretcrs.github.io/QA-Links/
